@@ -22,7 +22,6 @@ public class Main {
         charSex = sc.next().charAt(0);
         System.out.printf("Char: %s \n", charSex);
 
-
         sc.close();
     }
 }
